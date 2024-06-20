@@ -710,7 +710,7 @@ body {
     }
 
     .menus {
-        flex-direction: column;
+        flex-direction: row;
         align-items: center;
     }
 
@@ -803,7 +803,7 @@ body {
 /* Responsive styles */
 @media (max-width: 768px) {
     .awar {
-        flex-direction: column;
+        flex-direction: row;
         align-items: center;
         gap: 20px;
     }
